@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @matefoldes
+- 👀 I’m interested in creating back-end applications with the Spring framework
+- 🌱 I’m currently learning the Spring framework in more depth
+- 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/mate-foldes/
